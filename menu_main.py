@@ -5,6 +5,8 @@ Furnace_simulation Project
 
 needs editing depending of requirement 
 
+this is just an example from another project 
+
 """
 import klm_menu
 import sim_env
